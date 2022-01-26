@@ -1,4 +1,4 @@
-# com_261449_lab3
+# Lazywear.my
 
 A new Flutter project.
 
